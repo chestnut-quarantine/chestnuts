@@ -39,6 +39,36 @@ Googling:
 [wisconsin](#wisconsin)
 [wyoming](#wyoming)
 
+***
 # alabama
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+No quarantine or regulation for chestnuts known.
+___
+
+# alaska
+No quarantine or regulation for chestnuts known.
+___
+
+# arizona
+No quarantine or regulation for chestnuts known.
+___
+
+# arkansas
+No quarantine or regulation for chestnuts known.
+___
+
+# california
+
+*FOR FULL REGULATION SUMMARY AND ADDITIONAL INFORMATION GO TO*:
+## [http://pi.cdfa.ca.gov/pqm/manual/pdf/302.pdf](http://pi.cdfa.ca.gov/pqm/manual/pdf/302.pdf)
+
+STATES REGULATED
+All states, districts and territories except AZ.
+MATERIALS REGULATED
+All plant parts, except acorns of all species of chestnut, chinquapin, oak, and tanbark oak.
+RESTRICTIONS
+1. Commodities Covered Prohibited From Area Under Quarantine. Regulated materials are prohibited from quarantined areas unless an official certificate evidencing compliance as stated below, accompanies each lot or shipment.
+2. Commodities Covered Produced in Western States Admitted Under Certificate of Origin. All regulated commodities covered produced in and shipped from that portion of the area under quarantine west of the states of Montana, Wyoming, Colorado, and New Mexico are admissible into California, provided that each lot or shipment is accompanied by an official certificate issued by, and bearing an original or facsimile signature of, the authorized agricultural inspection official of the state in which the commodities were grown or shipped, affirming that chestnut bark disease and oak wilt disease are not known to occur in the state where grown, and also setting forth the name of the state where produced and the kind and amount of commodities covered by the certificate.
+3. Commodities Covered Admissible Under Certificate of Treatment. Regulated commodities may be shipped to California from the areas under quarantine if prior approval by the Director of
+the treatment method to be used. Except as provided above, each shipment of a commodity covered must be accompanied by an official certificate issued by, and bearing an original or facsimile signature of, the authorized agricultural official of the state of origin indicating the method of treatment, quantity of commodity covered, identification or license number of carrier, and the names and addresses of the shipper and consignee.
+4. No Restrictions on Foreign Nuts. No restrictions are placed by this quarantine upon the nuts of all species and varieties of chestnut and chinquapin (Castanea spp. and Castanopsis spp.) grown in and imported from foreign countries when reshipped into or arriving in this State in an unopened original container.
+
