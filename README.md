@@ -10,3 +10,9 @@ Googling:
 ...may reveal more up-to-date or different information. The source documents are linked above. 
 
 [new features](# New Features)
+
+
+# New Features!
+
+  - Import a HTML file and watch it magically convert to Markdown
+  - Drag and drop images (requires your Dropbox account be linked)
